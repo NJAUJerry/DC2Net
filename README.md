@@ -3,7 +3,6 @@
 This is the code of the hyperspectral image classification network , used for early detection of crop diseases: Deformable Convolution and Dilated Convolution Neural Network (DC2Net).
 The datasets required for the code can be found at soybean306.csv and soy3d_y.csv
 
-The corresponding paper __*DC2Net: An Asian soybean rust detection model based on hyperspectral imaging and deep learning*__ of the code has been accpeted by plant phenomics.
 
 
 ## Model
